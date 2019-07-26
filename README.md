@@ -11,7 +11,7 @@ The program reads in points from a .txt file in the format of _x-cord\n y-cord\n
 4. In a unix shell navigate to the folder where viz.py is stored
   4a. Type in `$chmod +x viz.py` to give the file exacutable permissions 
 
-## How To RUn
+## How To Run
 1. In a unix shell navigate to the folder where viz.py is stored
 2. Type `$./viz.py`
 3. Follow the on screen prompts:
