@@ -1,6 +1,11 @@
 # 3dpointViz
 This program graphs (x,y,z) points in a 3D line graph.
 
+## Sample Output
+Inline-style: 
+![alt text](https://github.com/JakeC007/3dpointViz/blob/master/Images/Sample_Output.png "Sample Output")
+
+
 ## Input
 The program reads in points from a .txt file in the format of _x-cord\n y-cord\n z-cord_ then repeat for each coord
 
