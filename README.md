@@ -14,4 +14,13 @@ The program reads in points from a .txt file in the format of _x-cord\n y-cord\n
 ## How To RUn
 1. In a unix shell navigate to the folder where viz.py is stored
 2. Type `$./viz.py`
-Follow the on screen prompts
+3. Follow the on screen prompts:
+
+![alt text](https://github.com/JakeC007/3dpointViz/blob/master/Images/Sample_UNIX_Shell.png "What The UNIX Shell Looks Like")
+
+## Sample Output 
+![alt text](https://github.com/JakeC007/3dpointViz/blob/master/Images/Sample_Output.png "Sample Output")
+
+## Sample Input
+
+![alt text](https://github.com/JakeC007/3dpointViz/blob/master/Images/Sample_Input.png "Sample Input")
