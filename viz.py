@@ -64,6 +64,11 @@ def main():
         plt.show()
 
 def readCoords(x, y, z):
+    """
+    This function gets the file name and reads in the cords from the file and
+    put the x coords in the x list, y coords in the y list, and z coords in the
+    z list. 
+    """
     pNum = input("Please enter participant number: ")
     pGest = raw_input("Please enter the file name: ")
     filename = '/home/jake/Desktop/participant00'+str(pNum)+'/'+pGest+'.txt'
