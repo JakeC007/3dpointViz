@@ -1,4 +1,4 @@
-# 3dpointViz
+# 3dpointViz (Drone Path Visualizer)
 This program graphs (x,y,z) points in a 3D line graph.
 
 ## Input
