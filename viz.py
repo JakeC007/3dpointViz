@@ -44,8 +44,8 @@ def main():
 
         elif dimFlag == 2:
             xL = float(input("Please input a float lowerbound for the x-axis: "))
-            zL = float(input("Please input a float lowerbound for the z-axis: "))
             yL = float(input("Please input a float lowerbound for the y-axis: "))
+            zL = float(input("Please input a float lowerbound for the z-axis: "))
             print "---------------------------------------------------"
             xH = float(input("Please input a float upperbound for the x-axis: "))
             yH = float(input("Please input a float upperbound for the y-axis: "))
@@ -69,9 +69,10 @@ def readCoords(x, y, z):
     put the x coords in the x list, y coords in the y list, and z coords in the
     z list. 
     """
-    pNum = input("Please enter participant number: ")
+    #pNum = input("Please enter participant number: ")
     pGest = raw_input("Please enter the file name: ")
-    filename = '/home/jake/Desktop/participant00'+str(pNum)+'/'+pGest+'.txt'
+    #filename = '/home/jake/Desktop/participant00'+str(pNum)+'/'+pGest+'.txt'
+    filename = '/home/jake/Desktop/participant007/'+pGest+'.txt'
 
     try:
         with open(filename, 'r') as f:
