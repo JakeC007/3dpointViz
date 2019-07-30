@@ -7,7 +7,6 @@ The program reads in points from a .txt file in the format of _x-cord\n y-cord\n
 ## Fisrt Time Setup
 1. Open the viz.py file and look for the varaible `filename`
 2. Modify this string to naviage to the folder your files are stored in
-3. _(Optional)_ comment out `pNum` to skip the participant section (this was built for a specfic purpose and probably won't be relevant to your needs)
 4. In a unix shell navigate to the folder where viz.py is stored
   4a. Type in `$chmod +x viz.py` to give the file exacutable permissions 
 
